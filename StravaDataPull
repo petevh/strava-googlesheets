@@ -1,5 +1,5 @@
 var CLIENT_ID = '34258';
-var CLIENT_SECRET = 'dcbcdcf0a0e90bf682656ca861f52aa99fc0c319';
+var CLIENT_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 var SPREADSHEET_NAME = "StravaDataPull";
 var SPREADSHEET_ID = "1GwjNlLSzzpyJQaarV7Ri6axeN8OuHy4loRFcHFxDYhU";
 var SHEET_NAME = "Sheet1";
